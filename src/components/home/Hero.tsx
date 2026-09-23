@@ -7,7 +7,7 @@ export function Hero() {
       <div className="relative z-10 flex items-center py-12 sm:py-16 lg:py-0">
         <div className="max-w-[34rem] border-l-4 border-[#e1252d] pl-5 text-white sm:pl-7">
           <p className="mb-7 text-[11px] font-bold tracking-[.14em] text-[#ffe36b]">ĐOÀN TNCS HỒ CHÍ MINH – HỘI SINH VIÊN VIỆT NAM</p>
-          <h1 className="font-display font-extrabold leading-[1.1] tracking-[-.06em] text-white"><span className="block text-[clamp(2.75rem,8vw,5rem)] lg:inline">TUỔI TRẺ </span><span className="block text-[clamp(2.75rem,8vw,5rem)] lg:inline">COFER</span></h1>
+          <h1 className="font-display font-extrabold leading-[1.1] tracking-[-.06em] text-white"><span className="block text-[clamp(2.2rem,6.4vw,4rem)] lg:inline">TUỔI TRẺ </span><span className="block text-[clamp(2.2rem,6.4vw,4rem)] lg:inline">COFER</span></h1>
           <p className="mt-5 text-[13px] font-extrabold tracking-[.1em] text-[#ffe36b] sm:text-[15px]">BẢN LĨNH <span className="px-1 text-[#e1252d]">•</span> TIÊN PHONG <span className="px-1 text-[#e1252d]">•</span> CỐNG HIẾN</p>
           <p className="mt-6 max-w-md text-[15px] leading-relaxed text-blue-100 sm:text-base">Cùng học tập, rèn luyện, sáng tạo và lan tỏa những giá trị tốt đẹp đến cộng đồng.</p>
           <a href="#hoat-dong" className="mt-8 inline-flex min-h-12 items-center gap-2 rounded-lg bg-[#e1252d] px-5 text-sm font-bold text-white transition-transform duration-200 hover:-translate-y-0.5 hover:bg-[#c91925]">Khám phá hoạt động <ArrowRight size={18} /></a>
